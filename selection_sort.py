@@ -1,5 +1,5 @@
 
-#Python program fot hte implementation of selection sort
+#Python program for the implementation of selection sort
 
 arr = ['p' , 'y' , 't' , 'h' , 'o' , 'n']
 for i in range(len(arr)):
