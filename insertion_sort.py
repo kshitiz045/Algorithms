@@ -12,5 +12,5 @@ def insertion_sort(num):
 
 num = input("Enter the elements ").split()
 insertion_sort(num)
-print('Sorted list: ', end='')
+print('Sorted list are : ', end='')
 print(num)
